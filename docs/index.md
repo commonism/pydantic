@@ -135,6 +135,10 @@ Hundreds of organisations and packages are using *pydantic*, including:
 : a high performance API framework, easy to learn,
   fast to code and ready for production, based on *pydantic* and Starlette.
 
+[aiopenapi3](https://github.com/commonism/aiopenapi3/)
+: OpenAPI 3.0/3.1 / Swagger 2.0 client & validator based on *pydantic* and httpx.
+  *pydantic* models are created dynamically from the API description document.
+
 [Project Jupyter](https://jupyter.org/)
 : developers of the Jupyter notebook are using *pydantic* 
   [for subprojects](https://github.com/pydantic/pydantic/issues/773), through the FastAPI-based Jupyter server
